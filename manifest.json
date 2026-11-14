@@ -6,7 +6,8 @@
   "permissions": [
     "tabs",
     "notifications",
-    "alarms"
+    "alarms",
+    "scripting"
   ],
   "host_permissions": [
     "https://bored-api.appbrewery.com/*"
